@@ -12,7 +12,7 @@
 #That is basically how to design it.
 
 fileName = input("Input File Name: ")
-import tabulate
+#import tabulate
 import string
 import datetime
 import pytz
