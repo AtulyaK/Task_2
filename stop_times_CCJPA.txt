@@ -1,0 +1,645 @@
+trip_id,stop_sequence,stop_id,arrival_time,departure_time,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
+521,0,SAC,4:10:00,4:10:00,Sacramento,0,0,,1
+521,1,DAV,4:25:00,4:25:00,Davis,0,0,,1
+521,2,FFV,4:45:00,4:45:00,Fairfied/Vacavie,0,0,,1
+521,3,SUI,4:51:00,4:51:00,Suisun/Fairfied,0,0,,1
+521,4,MTZ,5:10:00,5:10:00,Martinez,0,0,,1
+521,5,RIC,5:36:00,5:36:00,Richmond-BART,0,0,,1
+521,6,BKY,5:44:00,5:44:00,Berkeey,0,0,,1
+521,7,EMY,5:49:00,5:49:00,Emeryvie,0,0,,1
+521,8,OKJ,6:01:00,6:01:00,Oakand Jack ondon,0,0,,1
+521,9,OAC,6:11:00,6:11:00,Oakand Coiseum-BART,0,0,,1
+521,10,HAY,6:21:00,6:21:00,Hayward,0,0,,1
+521,11,FMT,6:37:00,6:37:00,Fremont/Centervie,0,0,,1
+521,12,GAC,6:54:00,6:54:00,Santa Cara/Great America,0,0,,1
+521,13,SCC,7:03:00,7:03:00,Santa Cara/University,0,0,,1
+521,14,SJC,7:15:00,7:15:00,San Jose,0,0,,1
+521W,0,EMY,5:50:00,5:50:00,Emeryvie- Amtrak,0,0,0,1
+521W,1,SFC,6:20:00,6:20:00,SF Saesforce Paza,0,0,14270.63,1
+522,0,OKJ,6:12:00,6:12:00,Oakland Jack London,0,0,,1
+522,1,EMY,6:21:00,6:21:00,Emeryville,0,0,,1
+522,2,BKY,6:25:00,6:25:00,Berkeley,0,0,,1
+522,3,RIC,6:32:00,6:32:00,Richmond-BART,0,0,,1
+522,4,MTZ,6:58:00,6:58:00,Martinez,0,0,,1
+522,5,SUI,7:17:00,7:17:00,Suisun/Fairfield,0,0,,1
+522,6,FFV,7:23:00,7:23:00,Fairfield/Vacaville,0,0,,1
+522,7,DAV,7:47:00,7:47:00,Davis,0,0,,1
+522,8,SAC,8:10:00,8:10:00,Sacramento,0,0,,1
+522E,0,SFC,5:40:00,5:40:00,SF Salesforce Plaza,0,0,0,1
+522E,1,EMY,6:10:00,6:10:00,Emeryville- Amtrak,0,0,13173.33,1
+523,0,SAC,5:10:00,5:10:00,Sacramento,0,0,,1
+523,1,DAV,5:25:00,5:25:00,Davis,0,0,,1
+523,2,FFV,5:45:00,5:45:00,Fairfied/Vacavie,0,0,,1
+523,3,SUI,5:51:00,5:51:00,Suisun/Fairfied,0,0,,1
+523,4,MTZ,6:10:00,6:10:00,Martinez,0,0,,1
+523,5,RIC,6:36:00,6:36:00,Richmond-BART,0,0,,1
+523,6,BKY,6:44:00,6:44:00,Berkeey,0,0,,1
+523,7,EMY,6:49:00,6:49:00,Emeryvie,0,0,,1
+523,8,OKJ,7:00:00,7:00:00,Oakand Jack ondon,0,0,,1
+523,9,OAC,7:09:00,7:09:00,Oakand Coiseum-BART,0,0,,1
+523,10,HAY,7:22:00,7:22:00,Hayward,0,0,,1
+523,11,FMT,7:37:00,7:37:00,Fremont/Centervie,0,0,,1
+523,12,GAC,7:54:00,7:54:00,Santa Cara/Great America,0,0,,1
+523,13,SCC,8:02:00,8:02:00,Santa Cara/University,0,0,,1
+523,14,SJC,8:14:00,8:14:00,San Jose,0,0,,1
+523S,0,RSV,4:15:00,4:15:00,Rosevile,0,0,,1
+523S,1,SAC,4:55:00,4:55:00,Sacramento,0,0,,1
+523W,0,EMY,6:50:00,6:50:00,Emeryvie- Amtrak,0,0,0,1
+523W,1,SFC,7:30:00,7:30:00,SF Saesforce Paza,0,0,14270.63,1
+524,0,SJC,6:18:00,6:18:00,San Jose,0,0,,1
+524,1,SCC,6:24:00,6:24:00,Santa Clara/University,0,0,,1
+524,2,GAC,6:31:00,6:31:00,Santa Clara/Great America,0,0,,1
+524,3,FMT,6:47:00,6:47:00,Fremont/Centerville,0,0,,1
+524,4,HAY,7:02:00,7:02:00,Hayward,0,0,,1
+524,5,OAC,7:13:00,7:13:00,Oakland Coliseum-BART,0,0,,1
+524,6,OKJ,7:24:00,7:24:00,Oakland Jack London,0,0,,1
+524,7,EMY,7:35:00,7:35:00,Emeryville,0,0,,1
+524,8,BKY,7:39:00,7:39:00,Berkeley,0,0,,1
+524,9,RIC,7:46:00,7:46:00,Richmond-BART,0,0,,1
+524,10,MTZ,8:13:00,8:13:00,Martinez,0,0,,1
+524,11,SUI,8:32:00,8:32:00,Suisun/Fairfield,0,0,,1
+524,12,FFV,8:39:00,8:39:00,Fairfield/Vacaville,0,0,,1
+524,13,DAV,9:00:00,9:00:00,Davis,0,0,,1
+524,14,SAC,9:22:00,9:22:00,Sacramento,0,0,,1
+524E,0,SFC,6:55:00,6:55:00,SF Salesforce Plaza,0,0,0,1
+524E,1,EMY,7:25:00,7:25:00,Emeryville- Amtrak,0,0,13173.33,1
+525,0,SAC,6:10:00,6:10:00,Sacramento,0,0,,1
+525,1,DAV,6:25:00,6:25:00,Davis,0,0,,1
+525,2,FFV,6:45:00,6:45:00,Fairfied/Vacavie,0,0,,1
+525,3,SUI,6:51:00,6:51:00,Suisun/Fairfied,0,0,,1
+525,4,MTZ,7:10:00,7:10:00,Martinez,0,0,,1
+525,5,RIC,7:36:00,7:36:00,Richmond-BART,0,0,,1
+525,6,BKY,7:44:00,7:44:00,Berkeey,0,0,,1
+525,7,EMY,7:50:00,7:50:00,Emeryvie,0,0,,1
+525,8,OKJ,8:04:00,8:04:00,Oakand Jack ondon,0,0,,1
+525S,0,RSV,5:15:00,5:15:00,Rosevile,0,0,,1
+525S,1,SAC,5:55:00,5:55:00,Sacramento,0,0,,1
+525W,0,EMY,7:50:00,7:50:00,Emeryvie- Amtrak,0,0,0,1
+525W,1,SFC,8:30:00,8:30:00,SF Saesforce Paza,0,0,14270.63,1
+527,0,ARN,5:40:00,5:40:00,Auburn,0,0,,1
+527,1,RLN,6:03:00,6:03:00,Rocklin,0,0,,1
+527,2,RSV,6:12:00,6:12:00,Roseville,0,0,,1
+527,3,SAC,6:43:00,6:43:00,Sacramento,0,0,,1
+527,4,DAV,6:58:00,6:58:00,Davis,0,0,,1
+527,5,FFV,7:18:00,7:18:00,Fairfied/Vacavie,0,0,,1
+527,6,SUI,7:24:00,7:24:00,Suisun/Fairfied,0,0,,1
+527,7,MTZ,7:43:00,7:43:00,Martinez,0,0,,1
+527,8,RIC,8:09:00,8:09:00,Richmond-BART,0,0,,1
+527,9,BKY,8:17:00,8:17:00,Berkeey,0,0,,1
+527,10,EMY,8:23:00,8:23:00,Emeryvie,0,0,,1
+527,11,OKJ,8:39:00,8:39:00,Oakand Jack ondon,0,0,,1
+527,12,OAC,8:48:00,8:48:00,Oakand Coiseum-BART,0,0,,1
+527,13,HAY,8:59:00,8:59:00,Hayward,0,0,,1
+527,14,FMT,9:15:00,9:15:00,Fremont/Centervie,0,0,,1
+527,15,GAC,9:32:00,9:32:00,Santa Cara/Great America,0,0,,1
+527,16,SCC,9:40:00,9:40:00,Santa Cara/University,0,0,,1
+527,17,SJC,9:53:00,9:53:00,San Jose,0,0,,1
+527W,0,EMY,8:25:00,8:25:00,Emeryvie- Amtrak,0,0,0,1
+527W,1,SFC,9:00:00,9:00:00,SF Saesforce Paza,0,0,14270.63,1
+528,0,SJC,8:48:00,8:48:00,San Jose,0,0,,1
+528,1,SCC,8:54:00,8:54:00,Santa Clara/University,0,0,,1
+528,2,GAC,9:01:00,9:01:00,Santa Clara/Great America,0,0,,1
+528,3,FMT,9:18:00,9:18:00,Fremont/Centerville,0,0,,1
+528,4,HAY,9:33:00,9:33:00,Hayward,0,0,,1
+528,5,OAC,9:44:00,9:44:00,Oakland Coliseum-BART,0,0,,1
+528,6,OKJ,9:57:00,9:57:00,Oakland Jack London,0,0,,1
+528,7,EMY,10:06:00,10:06:00,Emeryville,0,0,,1
+528,8,BKY,10:10:00,10:10:00,Berkeley,0,0,,1
+528,9,RIC,10:18:00,10:18:00,Richmond-BART,0,0,,1
+528,10,MTZ,10:45:00,10:45:00,Martinez,0,0,,1
+528,11,SUI,11:04:00,11:04:00,Suisun/Fairfield,0,0,,1
+528,12,FFV,11:11:00,11:11:00,Fairfield/Vacaville,0,0,,1
+528,13,DAV,11:33:00,11:33:00,Davis,0,0,,1
+528,14,SAC,11:57:00,11:57:00,Sacramento,0,0,,1
+528E,0,SFC,9:25:00,9:25:00,SF Salesforce Plaza,0,0,0,1
+528E,1,EMY,9:55:00,9:55:00,Emeryville- Amtrak,0,0,13173.33,1
+531,0,SAC,8:55:00,8:55:00,Sacramento,0,0,,1
+531,1,DAV,9:10:00,9:10:00,Davis,0,0,,1
+531,2,FFV,9:30:00,9:30:00,Fairfied/Vacavie,0,0,,1
+531,3,SUI,9:36:00,9:36:00,Suisun/Fairfied,0,0,,1
+531,4,MTZ,9:55:00,9:55:00,Martinez,0,0,,1
+531,5,RIC,10:21:00,10:21:00,Richmond-BART,0,0,,1
+531,6,BKY,10:29:00,10:29:00,Berkeey,0,0,,1
+531,7,EMY,10:34:00,10:34:00,Emeryvie,0,0,,1
+531,8,OKJ,10:45:00,10:45:00,Oakand Jack ondon,0,0,,1
+531,9,OAC,10:54:00,10:54:00,Oakand Coiseum-BART,0,0,,1
+531,10,HAY,11:06:00,11:06:00,Hayward,0,0,,1
+531,11,FMT,11:23:00,11:23:00,Fremont/Centervie,0,0,,1
+531,12,GAC,11:45:00,11:45:00,Santa Cara/Great America,0,0,,1
+531,13,SCC,11:53:00,11:53:00,Santa Cara/University,0,0,,1
+531,14,SJC,12:11:00,12:11:00,San Jose,0,0,,1
+531W,0,EMY,10:35:00,10:35:00,Emeryvie- Amtrak,0,0,0,1
+531W,1,SFC,11:05:00,11:05:00,SF Saesforce Paza,0,0,14270.63,1
+532,0,SJC,11:05:00,11:05:00,San Jose,0,0,,1
+532,1,SCC,11:11:00,11:11:00,Santa Clara/University,0,0,,1
+532,2,GAC,11:18:00,11:18:00,Santa Clara/Great America,0,0,,1
+532,3,FMT,11:36:00,11:36:00,Fremont/Centerville,0,0,,1
+532,4,HAY,11:51:00,11:51:00,Hayward,0,0,,1
+532,5,OAC,12:03:00,12:03:00,Oakland Coliseum-BART,0,0,,1
+532,6,OKJ,12:17:00,12:17:00,Oakland Jack London,0,0,,1
+532,7,EMY,12:26:00,12:26:00,Emeryville,0,0,,1
+532,8,BKY,12:30:00,12:30:00,Berkeley,0,0,,1
+532,9,RIC,12:37:00,12:37:00,Richmond-BART,0,0,,1
+532,10,MTZ,13:04:00,13:04:00,Martinez,0,0,,1
+532,11,SUI,13:23:00,13:23:00,Suisun/Fairfield,0,0,,1
+532,12,FFV,13:29:00,13:29:00,Fairfield/Vacaville,0,0,,1
+532,13,DAV,13:53:00,13:53:00,Davis,0,0,,1
+532,14,SAC,14:16:00,14:16:00,Sacramento,0,0,,1
+532E,0,SFC,11:45:00,11:45:00,SF Salesforce Plaza,0,0,0,1
+532E,1,EMY,12:15:00,12:15:00,Emeryville- Amtrak,0,0,13173.33,1
+532S,0,SAC,14:25:00,14:25:00,Sacramento,0,0,,1
+532S,1,RSV,14:55:00,14:55:00,Roseville,0,0,,1
+532S,2,RLN,15:10:00,15:10:00,Rocklin,0,0,,1
+532S,3,ARN,15:35:00,15:35:00,Auburn,0,0,,1
+532S,4,COX,15:50:00,15:50:00,Colfax,0,0,,1
+534,0,OKJ,14:12:00,14:12:00,Oakland Jack London,0,0,,1
+534,1,EMY,14:21:00,14:21:00,Emeryville,0,0,,1
+534,2,BKY,14:25:00,14:25:00,Berkeley,0,0,,1
+534,3,RIC,14:32:00,14:32:00,Richmond-BART,0,0,,1
+534,4,MTZ,14:58:00,14:58:00,Martinez,0,0,,1
+534,5,SUI,15:17:00,15:17:00,Suisun/Fairfield,0,0,,1
+534,6,FFV,15:24:00,15:24:00,Fairfield/Vacaville,0,0,,1
+534,7,DAV,15:45:00,15:45:00,Davis,0,0,,1
+534,8,SAC,16:10:00,16:10:00,Sacramento,0,0,,1
+534E,0,SFC,13:35:00,13:35:00,SF Salesforce Plaza,0,0,0,1
+534E,1,EMY,14:05:00,14:05:00,Emeryville- Amtrak,0,0,13173.33,1
+536,0,OKJ,15:12:00,15:12:00,Oakland Jack London,0,0,,1
+536,1,EMY,15:21:00,15:21:00,Emeryville,0,0,,1
+536,2,BKY,15:25:00,15:25:00,Berkeley,0,0,,1
+536,3,RIC,15:33:00,15:33:00,Richmond-BART,0,0,,1
+536,4,MTZ,16:00:00,16:00:00,Martinez,0,0,,1
+536,5,SUI,16:19:00,16:19:00,Suisun/Fairfield,0,0,,1
+536,6,FFV,16:26:00,16:26:00,Fairfield/Vacaville,0,0,,1
+536,7,DAV,16:49:00,16:49:00,Davis,0,0,,1
+536,8,SAC,17:16:00,17:16:00,Sacramento,0,0,,1
+536E,0,SFC,14:35:00,14:35:00,SF Salesforce Plaza,0,0,0,1
+536E,1,EMY,15:05:00,15:05:00,Emeryville- Amtrak,0,0,13173.33,1
+536S,0,SAC,17:25:00,17:25:00,Sacramento,0,0,,1
+536S,1,RSV,18:05:00,18:05:00,Roseville,0,0,,1
+536S,2,RLN,18:25:00,18:25:00,Rocklin,0,0,,1
+536S,3,ARN,18:40:00,18:40:00,Auburn,0,0,,1
+538,0,SJC,15:05:00,15:05:00,San Jose,0,0,,1
+538,1,SCC,15:11:00,15:11:00,Santa Clara/University,0,0,,1
+538,2,GAC,15:19:00,15:19:00,Santa Clara/Great America,0,0,,1
+538,3,FMT,15:35:00,15:35:00,Fremont/Centerville,0,0,,1
+538,4,HAY,15:50:00,15:50:00,Hayward,0,0,,1
+538,5,OAC,16:01:00,16:01:00,Oakland Coliseum-BART,0,0,,1
+538,6,OKJ,16:12:00,16:12:00,Oakland Jack London,0,0,,1
+538,7,EMY,16:21:00,16:21:00,Emeryville,0,0,,1
+538,8,BKY,16:25:00,16:25:00,Berkeley,0,0,,1
+538,9,RIC,16:32:00,16:32:00,Richmond-BART,0,0,,1
+538,10,MTZ,16:59:00,16:59:00,Martinez,0,0,,1
+538,11,SUI,17:18:00,17:18:00,Suisun/Fairfield,0,0,,1
+538,12,FFV,17:24:00,17:24:00,Fairfield/Vacaville,0,0,,1
+538,13,DAV,17:46:00,17:46:00,Davis,0,0,,1
+538,14,SAC,18:07:00,18:07:00,Sacramento,0,0,,1
+538,15,RSV,18:32:00,18:32:00,Roseville,0,0,,1
+538,16,RLN,18:43:00,18:43:00,Rocklin,0,0,,1
+538,17,ARN,19:16:00,19:16:00,Auburn,0,0,,1
+538E,0,SFC,15:35:00,15:35:00,SF Salesforce Plaza,0,0,0,1
+538E,1,EMY,16:05:00,16:05:00,Emeryville- Amtrak,0,0,13173.33,1
+540,0,OKJ,16:42:00,16:42:00,Oakland Jack London,0,0,,1
+540,1,EMY,16:51:00,16:51:00,Emeryville,0,0,,1
+540,2,BKY,16:55:00,16:55:00,Berkeley,0,0,,1
+540,3,RIC,17:02:00,17:02:00,Richmond-BART,0,0,,1
+540,4,MTZ,17:28:00,17:28:00,Martinez,0,0,,1
+540,5,SUI,17:47:00,17:47:00,Suisun/Fairfield,0,0,,1
+540,6,FFV,17:54:00,17:54:00,Fairfield/Vacaville,0,0,,1
+540,7,DAV,18:17:00,18:17:00,Davis,0,0,,1
+540,8,SAC,18:41:00,18:41:00,Sacramento,0,0,,1
+540E,0,SFC,16:10:00,16:10:00,SF Salesforce Plaza,0,0,0,1
+540E,1,EMY,16:40:00,16:40:00,Emeryville- Amtrak,0,0,13173.33,1
+541,0,SAC,11:55:00,11:55:00,Sacramento,0,0,,1
+541,1,DAV,12:10:00,12:10:00,Davis,0,0,,1
+541,2,FFV,12:30:00,12:30:00,Fairfied/Vacavie,0,0,,1
+541,3,SUI,12:36:00,12:36:00,Suisun/Fairfied,0,0,,1
+541,4,MTZ,12:55:00,12:55:00,Martinez,0,0,,1
+541,5,RIC,13:21:00,13:21:00,Richmond-BART,0,0,,1
+541,6,BKY,13:29:00,13:29:00,Berkeey,0,0,,1
+541,7,EMY,13:34:00,13:34:00,Emeryvie,0,0,,1
+541,8,OKJ,13:45:00,13:45:00,Oakand Jack ondon,0,0,,1
+541,9,OAC,13:55:00,13:55:00,Oakand Coiseum-BART,0,0,,1
+541,10,HAY,14:05:00,14:05:00,Hayward,0,0,,1
+541,11,FMT,14:20:00,14:20:00,Fremont/Centervie,0,0,,1
+541,12,GAC,14:38:00,14:38:00,Santa Cara/Great America,0,0,,1
+541,13,SCC,14:48:00,14:48:00,Santa Cara/University,0,0,,1
+541,14,SJC,15:05:00,15:05:00,San Jose,0,0,,1
+541S,0,COX,9:45:00,9:45:00,Cofax,0,0,,1
+541S,1,ARN,10:15:00,10:15:00,Auburn,0,0,,1
+541S,2,RLN,10:30:00,10:30:00,Rockin,0,0,,1
+541S,3,RSV,10:45:00,10:45:00,Rosevile,0,0,,1
+541S,4,SAC,11:35:00,11:35:00,Sacramento,0,0,,1
+541W,0,EMY,13:35:00,13:35:00,Emeryvie- Amtrak,0,0,0,1
+541W,1,SFC,14:05:00,14:05:00,SF Saesforce Paza,0,0,14270.63,1
+542,0,SJC,16:05:00,16:05:00,San Jose,0,0,,1
+542,1,SCC,16:11:00,16:11:00,Santa Clara/University,0,0,,1
+542,2,GAC,16:19:00,16:19:00,Santa Clara/Great America,0,0,,1
+542,3,FMT,16:35:00,16:35:00,Fremont/Centerville,0,0,,1
+542,4,HAY,16:50:00,16:50:00,Hayward,0,0,,1
+542,5,OAC,17:01:00,17:01:00,Oakland Coliseum-BART,0,0,,1
+542,6,OKJ,17:12:00,17:12:00,Oakland Jack London,0,0,,1
+542,7,EMY,17:21:00,17:21:00,Emeryville,0,0,,1
+542,8,BKY,17:25:00,17:25:00,Berkeley,0,0,,1
+542,9,RIC,17:32:00,17:32:00,Richmond-BART,0,0,,1
+542,10,MTZ,17:58:00,17:58:00,Martinez,0,0,,1
+542,11,SUI,18:17:00,18:17:00,Suisun/Fairfield,0,0,,1
+542,12,FFV,18:24:00,18:24:00,Fairfield/Vacaville,0,0,,1
+542,13,DAV,18:46:00,18:46:00,Davis,0,0,,1
+542,14,SAC,19:10:00,19:10:00,Sacramento,0,0,,1
+542E,0,SFC,16:40:00,16:40:00,SF Salesforce Plaza,0,0,0,1
+542E,1,EMY,17:15:00,17:15:00,Emeryville- Amtrak,0,0,13173.33,1
+542S,0,SAC,19:20:00,19:20:00,Sacramento,0,0,,1
+542S,1,RSV,19:50:00,19:50:00,Roseville,0,0,,1
+542S,2,RLN,20:05:00,20:05:00,Rocklin,0,0,,1
+542S,3,ARN,20:20:00,20:20:00,Auburn,0,0,,1
+543,0,SAC,13:55:00,13:55:00,Sacramento,0,0,,1
+543,1,DAV,14:10:00,14:10:00,Davis,0,0,,1
+543,2,FFV,14:30:00,14:30:00,Fairfied/Vacavie,0,0,,1
+543,3,SUI,14:36:00,14:36:00,Suisun/Fairfied,0,0,,1
+543,4,MTZ,14:55:00,14:55:00,Martinez,0,0,,1
+543,5,RIC,15:22:00,15:22:00,Richmond-BART,0,0,,1
+543,6,BKY,15:30:00,15:30:00,Berkeey,0,0,,1
+543,7,EMY,15:36:00,15:36:00,Emeryvie,0,0,,1
+543,8,OKJ,15:52:00,15:52:00,Oakand Jack ondon,0,0,,1
+543W,0,EMY,15:40:00,15:40:00,Emeryvie- Amtrak,0,0,0,1
+543W,1,SFC,16:10:00,16:10:00,SF Saesforce Paza,0,0,14270.63,1
+545,0,SAC,15:55:00,15:55:00,Sacramento,0,0,,1
+545,1,DAV,16:10:00,16:10:00,Davis,0,0,,1
+545,2,FFV,16:30:00,16:30:00,Fairfied/Vacavie,0,0,,1
+545,3,SUI,16:36:00,16:36:00,Suisun/Fairfied,0,0,,1
+545,4,MTZ,16:55:00,16:55:00,Martinez,0,0,,1
+545,5,RIC,17:22:00,17:22:00,Richmond-BART,0,0,,1
+545,6,BKY,17:30:00,17:30:00,Berkeey,0,0,,1
+545,7,EMY,17:36:00,17:36:00,Emeryvie,0,0,,1
+545,8,OKJ,17:52:00,17:52:00,Oakand Jack ondon,0,0,,1
+545W,0,EMY,17:40:00,17:40:00,Emeryvie- Amtrak,0,0,0,1
+545W,1,SFC,18:10:00,18:10:00,SF Saesforce Paza,0,0,14270.63,1
+546,0,SJC,18:05:00,18:05:00,San Jose,0,0,,1
+546,1,SCC,18:11:00,18:11:00,Santa Clara/University,0,0,,1
+546,2,GAC,18:19:00,18:19:00,Santa Clara/Great America,0,0,,1
+546,3,FMT,18:35:00,18:35:00,Fremont/Centerville,0,0,,1
+546,4,HAY,18:50:00,18:50:00,Hayward,0,0,,1
+546,5,OAC,19:01:00,19:01:00,Oakland Coliseum-BART,0,0,,1
+546,6,OKJ,19:12:00,19:12:00,Oakland Jack London,0,0,,1
+546,7,EMY,19:21:00,19:21:00,Emeryville,0,0,,1
+546,8,BKY,19:25:00,19:25:00,Berkeley,0,0,,1
+546,9,RIC,19:32:00,19:32:00,Richmond-BART,0,0,,1
+546,10,MTZ,19:58:00,19:58:00,Martinez,0,0,,1
+546,11,SUI,20:17:00,20:17:00,Suisun/Fairfield,0,0,,1
+546,12,FFV,20:24:00,20:24:00,Fairfield/Vacaville,0,0,,1
+546,13,DAV,20:45:00,20:45:00,Davis,0,0,,1
+546,14,SAC,21:10:00,21:10:00,Sacramento,0,0,,1
+546E,0,SFC,18:30:00,18:30:00,SF Salesforce Plaza,0,0,0,1
+546E,1,EMY,19:05:00,19:05:00,Emeryville- Amtrak,0,0,13173.33,1
+546S,0,SAC,21:20:00,21:20:00,Sacramento,0,0,,1
+546S,1,RSV,21:50:00,21:50:00,Roseville,0,0,,1
+546S,2,RLN,22:05:00,22:05:00,Rocklin,0,0,,1
+546S,3,ARN,22:20:00,22:20:00,Auburn,0,0,,1
+547,0,SAC,17:03:00,17:03:00,Sacramento,0,0,,1
+547,1,DAV,17:18:00,17:18:00,Davis,0,0,,1
+547,2,FFV,17:38:00,17:38:00,Fairfied/Vacavie,0,0,,1
+547,3,SUI,17:44:00,17:44:00,Suisun/Fairfied,0,0,,1
+547,4,MTZ,18:03:00,18:03:00,Martinez,0,0,,1
+547,5,RIC,18:29:00,18:29:00,Richmond-BART,0,0,,1
+547,6,BKY,18:37:00,18:37:00,Berkeey,0,0,,1
+547,7,EMY,18:42:00,18:42:00,Emeryvie,0,0,,1
+547,8,OKJ,18:53:00,18:53:00,Oakand Jack ondon,0,0,,1
+547,9,OAC,19:03:00,19:03:00,Oakand Coiseum-BART,0,0,,1
+547,10,HAY,19:13:00,19:13:00,Hayward,0,0,,1
+547,11,FMT,19:30:00,19:30:00,Fremont/Centervie,0,0,,1
+547,12,GAC,19:49:00,19:49:00,Santa Cara/Great America,0,0,,1
+547,13,SCC,19:58:00,19:58:00,Santa Cara/University,0,0,,1
+547,14,SJC,20:16:00,20:16:00,San Jose,0,0,,1
+547W,0,EMY,18:45:00,18:45:00,Emeryvie- Amtrak,0,0,0,1
+547W,1,SFC,19:15:00,19:15:00,SF Saesforce Paza,0,0,14270.63,1
+548,0,OKJ,20:12:00,20:12:00,Oakland Jack London,0,0,,1
+548,1,EMY,20:21:00,20:21:00,Emeryville,0,0,,1
+548,2,BKY,20:25:00,20:25:00,Berkeley,0,0,,1
+548,3,RIC,20:32:00,20:32:00,Richmond-BART,0,0,,1
+548,4,MTZ,20:59:00,20:59:00,Martinez,0,0,,1
+548,5,SUI,21:19:00,21:19:00,Suisun/Fairfield,0,0,,1
+548,6,FFV,21:27:00,21:27:00,Fairfield/Vacaville,0,0,,1
+548,7,DAV,21:50:00,21:50:00,Davis,0,0,,1
+548,8,SAC,22:18:00,22:18:00,Sacramento,0,0,,1
+548E,0,SFC,19:30:00,19:30:00,SF Salesforce Plaza,0,0,0,1
+548E,1,EMY,20:05:00,20:05:00,Emeryville- Amtrak,0,0,13173.33,1
+549,0,SAC,17:55:00,17:55:00,Sacramento,0,0,,1
+549,1,DAV,18:10:00,18:10:00,Davis,0,0,,1
+549,2,FFV,18:30:00,18:30:00,Fairfied/Vacavie,0,0,,1
+549,3,SUI,18:36:00,18:36:00,Suisun/Fairfied,0,0,,1
+549,4,MTZ,18:55:00,18:55:00,Martinez,0,0,,1
+549,5,RIC,19:21:00,19:21:00,Richmond-BART,0,0,,1
+549,6,BKY,19:29:00,19:29:00,Berkeey,0,0,,1
+549,7,EMY,19:35:00,19:35:00,Emeryvie,0,0,,1
+549,8,OKJ,19:49:00,19:49:00,Oakand Jack ondon,0,0,,1
+549W,0,EMY,19:40:00,19:40:00,Emeryvie- Amtrak,0,0,0,1
+549W,1,SFC,20:10:00,20:10:00,SF Saesforce Paza,0,0,14270.63,1
+551,0,SAC,19:55:00,19:55:00,Sacramento,0,0,,1
+551,1,DAV,20:10:00,20:10:00,Davis,0,0,,1
+551,2,FFV,20:30:00,20:30:00,Fairfied/Vacavie,0,0,,1
+551,3,SUI,20:36:00,20:36:00,Suisun/Fairfied,0,0,,1
+551,4,MTZ,20:55:00,20:55:00,Martinez,0,0,,1
+551,5,RIC,21:22:00,21:22:00,Richmond-BART,0,0,,1
+551,6,BKY,21:30:00,21:30:00,Berkeey,0,0,,1
+551,7,EMY,21:36:00,21:36:00,Emeryvie,0,0,,1
+551,8,OKJ,21:52:00,21:52:00,Oakand Jack ondon,0,0,,1
+551W,0,EMY,21:40:00,21:40:00,Emeryvie- Amtrak,0,0,0,1
+551W,1,SFC,22:05:00,22:05:00,SF Saesforce Paza,0,0,14270.63,1
+720,0,OKJ,7:12:00,7:12:00,Oakland Jack London,0,0,,1
+720,1,EMY,7:21:00,7:21:00,Emeryville,0,0,,1
+720,2,BKY,7:25:00,7:25:00,Berkeley,0,0,,1
+720,3,RIC,7:32:00,7:32:00,Richmond-BART,0,0,,1
+720,4,MTZ,7:58:00,7:58:00,Martinez,0,0,,1
+720,5,SUI,8:17:00,8:17:00,Suisun/Fairfield,0,0,,1
+720,6,FFV,8:23:00,8:23:00,Fairfield/Vacaville,0,0,,1
+720,7,DAV,8:46:00,8:46:00,Davis,0,0,,1
+720,8,SAC,9:10:00,9:10:00,Sacramento,0,0,,1
+720E,0,SFC,6:40:00,6:40:00,SF Salesforce Plaza,0,0,0,1
+720E,1,EMY,7:10:00,7:10:00,Emeryville- Amtrak,0,0,13173.33,1
+723,0,SAC,5:55:00,5:55:00,Sacramento,0,0,,1
+723,1,DAV,6:10:00,6:10:00,Davis,0,0,,1
+723,2,FFV,6:30:00,6:30:00,Fairfield/Vacaville,0,0,,1
+723,3,SUI,6:36:00,6:36:00,Suisun/Fairfield,0,0,,1
+723,4,MTZ,6:55:00,6:55:00,Martinez,0,0,,1
+723,5,RIC,7:21:00,7:21:00,Richmond-BART,0,0,,1
+723,6,BKY,7:29:00,7:29:00,Berkeley,0,0,,1
+723,7,EMY,7:34:00,7:34:00,Emeryville,0,0,,1
+723,8,OKJ,7:45:00,7:45:00,Oakland Jack London,0,0,,1
+723,9,OAC,7:54:00,7:54:00,Oakland Coliseum-BART,0,0,,1
+723,10,HAY,8:04:00,8:04:00,Hayward,0,0,,1
+723,11,FMT,8:19:00,8:19:00,Fremont/Centerville,0,0,,1
+723,12,GAC,8:37:00,8:37:00,Santa Clara/Great America,0,0,,1
+723,13,SCC,8:45:00,8:45:00,Santa Clara/University,0,0,,1
+723,14,SJC,9:01:00,9:01:00,San Jose,0,0,,1
+723W,0,EMY,7:35:00,7:35:00,Emeryville- Amtrak,0,0,0,1
+723W,1,SFC,8:05:00,8:05:00,SF Salesforce Plaza,0,0,14270.63,1
+724,0,SJC,8:05:00,8:05:00,San Jose,0,0,,1
+724,1,SCC,8:11:00,8:11:00,Santa Clara/University,0,0,,1
+724,2,GAC,8:18:00,8:18:00,Santa Clara/Great America,0,0,,1
+724,3,FMT,8:34:00,8:34:00,Fremont/Centerville,0,0,,1
+724,4,HAY,8:49:00,8:49:00,Hayward,0,0,,1
+724,5,OAC,9:00:00,9:00:00,Oakland Coliseum-BART,0,0,,1
+724,6,OKJ,9:12:00,9:12:00,Oakland Jack London,0,0,,1
+724,7,EMY,9:21:00,9:21:00,Emeryville,0,0,,1
+724,8,BKY,9:25:00,9:25:00,Berkeley,0,0,,1
+724,9,RIC,9:32:00,9:32:00,Richmond-BART,0,0,,1
+724,10,MTZ,9:59:00,9:59:00,Martinez,0,0,,1
+724,11,SUI,10:18:00,10:18:00,Suisun/Fairfield,0,0,,1
+724,12,FFV,10:25:00,10:25:00,Fairfield/Vacaville,0,0,,1
+724,13,DAV,10:46:00,10:46:00,Davis,0,0,,1
+724,14,SAC,11:10:00,11:10:00,Sacramento,0,0,,1
+724E,0,SFC,8:40:00,8:40:00,SF Salesforce Plaza,0,0,0,1
+724E,1,EMY,9:10:00,9:10:00,Emeryville- Amtrak,0,0,13173.33,1
+727,0,SAC,6:55:00,6:55:00,Sacramento,0,0,,1
+727,1,DAV,7:10:00,7:10:00,Davis,0,0,,1
+727,2,FFV,7:30:00,7:30:00,Fairfield/Vacaville,0,0,,1
+727,3,SUI,7:36:00,7:36:00,Suisun/Fairfield,0,0,,1
+727,4,MTZ,7:55:00,7:55:00,Martinez,0,0,,1
+727,5,RIC,8:21:00,8:21:00,Richmond-BART,0,0,,1
+727,6,BKY,8:29:00,8:29:00,Berkeley,0,0,,1
+727,7,EMY,8:34:00,8:34:00,Emeryville,0,0,,1
+727,8,OKJ,8:45:00,8:45:00,Oakland Jack London,0,0,,1
+727,9,OAC,8:55:00,8:55:00,Oakland Coliseum-BART,0,0,,1
+727,10,HAY,9:08:00,9:08:00,Hayward,0,0,,1
+727,11,FMT,9:23:00,9:23:00,Fremont/Centerville,0,0,,1
+727,12,GAC,9:40:00,9:40:00,Santa Clara/Great America,0,0,,1
+727,13,SCC,9:48:00,9:48:00,Santa Clara/University,0,0,,1
+727,14,SJC,10:02:00,10:02:00,San Jose,0,0,,1
+727W,0,EMY,8:35:00,8:35:00,Emeryville- Amtrak,0,0,0,1
+727W,1,SFC,9:05:00,9:05:00,SF Salesforce Plaza,0,0,14270.63,1
+728,0,SJC,10:05:00,10:05:00,San Jose,0,0,,1
+728,1,SCC,10:11:00,10:11:00,Santa Clara/University,0,0,,1
+728,2,GAC,10:18:00,10:18:00,Santa Clara/Great America,0,0,,1
+728,3,FMT,10:34:00,10:34:00,Fremont/Centerville,0,0,,1
+728,4,HAY,10:49:00,10:49:00,Hayward,0,0,,1
+728,5,OAC,11:00:00,11:00:00,Oakland Coliseum-BART,0,0,,1
+728,6,OKJ,11:12:00,11:12:00,Oakland Jack London,0,0,,1
+728,7,EMY,11:21:00,11:21:00,Emeryville,0,0,,1
+728,8,BKY,11:25:00,11:25:00,Berkeley,0,0,,1
+728,9,RIC,11:32:00,11:32:00,Richmond-BART,0,0,,1
+728,10,MTZ,11:58:00,11:58:00,Martinez,0,0,,1
+728,11,SUI,12:17:00,12:17:00,Suisun/Fairfield,0,0,,1
+728,12,FFV,12:23:00,12:23:00,Fairfield/Vacaville,0,0,,1
+728,13,DAV,12:43:00,12:43:00,Davis,0,0,,1
+728,14,SAC,13:14:00,13:14:00,Sacramento,0,0,,1
+728E,0,SFC,10:35:00,10:35:00,SF Salesforce Plaza,0,0,0,1
+728E,1,EMY,11:05:00,11:05:00,Emeryville- Amtrak,0,0,13173.33,1
+729,0,ARN,7:55:00,7:55:00,Auburn,0,0,,1
+729,1,RLN,8:18:00,8:18:00,Rocklin,0,0,,1
+729,2,RSV,8:27:00,8:27:00,Roseville,0,0,,1
+729,3,SAC,8:55:00,8:55:00,Sacramento,0,0,,1
+729,4,DAV,9:10:00,9:10:00,Davis,0,0,,1
+729,5,FFV,9:30:00,9:30:00,Fairfield/Vacaville,0,0,,1
+729,6,SUI,9:36:00,9:36:00,Suisun/Fairfield,0,0,,1
+729,7,MTZ,9:55:00,9:55:00,Martinez,0,0,,1
+729,8,RIC,10:21:00,10:21:00,Richmond-BART,0,0,,1
+729,9,BKY,10:29:00,10:29:00,Berkeley,0,0,,1
+729,10,EMY,10:34:00,10:34:00,Emeryville,0,0,,1
+729,11,OKJ,10:45:00,10:45:00,Oakland Jack London,0,0,,1
+729,12,OAC,10:54:00,10:54:00,Oakland Coliseum-BART,0,0,,1
+729,13,HAY,11:07:00,11:07:00,Hayward,0,0,,1
+729,14,FMT,11:22:00,11:22:00,Fremont/Centerville,0,0,,1
+729,15,GAC,11:39:00,11:39:00,Santa Clara/Great America,0,0,,1
+729,16,SCC,11:47:00,11:47:00,Santa Clara/University,0,0,,1
+729,17,SJC,12:03:00,12:03:00,San Jose,0,0,,1
+729W,0,EMY,10:35:00,10:35:00,Emeryville- Amtrak,0,0,0,1
+729W,1,SFC,11:05:00,11:05:00,SF Salesforce Plaza,0,0,14270.63,1
+732,0,SJC,13:05:00,13:05:00,San Jose,0,0,,1
+732,1,SCC,13:11:00,13:11:00,Santa Clara/University,0,0,,1
+732,2,GAC,13:18:00,13:18:00,Santa Clara/Great America,0,0,,1
+732,3,FMT,13:34:00,13:34:00,Fremont/Centerville,0,0,,1
+732,4,HAY,13:49:00,13:49:00,Hayward,0,0,,1
+732,5,OAC,14:00:00,14:00:00,Oakland Coliseum-BART,0,0,,1
+732,6,OKJ,14:12:00,14:12:00,Oakland Jack London,0,0,,1
+732,7,EMY,14:21:00,14:21:00,Emeryville,0,0,,1
+732,8,BKY,14:25:00,14:25:00,Berkeley,0,0,,1
+732,9,RIC,14:32:00,14:32:00,Richmond-BART,0,0,,1
+732,10,MTZ,14:58:00,14:58:00,Martinez,0,0,,1
+732,11,SUI,15:17:00,15:17:00,Suisun/Fairfield,0,0,,1
+732,12,FFV,15:23:00,15:23:00,Fairfield/Vacaville,0,0,,1
+732,13,DAV,15:46:00,15:46:00,Davis,0,0,,1
+732,14,SAC,16:15:00,16:15:00,Sacramento,0,0,,1
+732E,0,SFC,13:40:00,13:40:00,SF Salesforce Plaza,0,0,0,1
+732E,1,EMY,14:10:00,14:10:00,Emeryville- Amtrak,0,0,13173.33,1
+732S,0,SAC,16:25:00,16:25:00,Sacramento,0,0,,1
+732S,1,RSV,16:55:00,16:55:00,Roseville,0,0,,1
+732S,2,RLN,17:10:00,17:10:00,Rocklin,0,0,,1
+732S,3,ARN,17:35:00,17:35:00,Auburn,0,0,,1
+732S,4,COX,17:50:00,17:50:00,Colfax,0,0,,1
+736,0,SJC,15:05:00,15:05:00,San Jose,0,0,,1
+736,1,SCC,15:11:00,15:11:00,Santa Clara/University,0,0,,1
+736,2,GAC,15:18:00,15:18:00,Santa Clara/Great America,0,0,,1
+736,3,FMT,15:34:00,15:34:00,Fremont/Centerville,0,0,,1
+736,4,HAY,15:49:00,15:49:00,Hayward,0,0,,1
+736,5,OAC,16:00:00,16:00:00,Oakland Coliseum-BART,0,0,,1
+736,6,OKJ,16:11:00,16:11:00,Oakland Jack London,0,0,,1
+736,7,EMY,16:20:00,16:20:00,Emeryville,0,0,,1
+736,8,BKY,16:24:00,16:24:00,Berkeley,0,0,,1
+736,9,RIC,16:31:00,16:31:00,Richmond-BART,0,0,,1
+736,10,MTZ,16:57:00,16:57:00,Martinez,0,0,,1
+736,11,SUI,17:16:00,17:16:00,Suisun/Fairfield,0,0,,1
+736,12,FFV,17:22:00,17:22:00,Fairfield/Vacaville,0,0,,1
+736,13,DAV,17:43:00,17:43:00,Davis,0,0,,1
+736,14,SAC,18:03:00,18:03:00,Sacramento,0,0,,1
+736,15,RSV,18:26:00,18:26:00,Roseville,0,0,,1
+736,16,RLN,18:35:00,18:35:00,Rocklin,0,0,,1
+736,17,ARN,19:06:00,19:06:00,Auburn,0,0,,1
+736E,0,SFC,15:40:00,15:40:00,SF Salesforce Plaza,0,0,0,1
+736E,1,EMY,16:10:00,16:10:00,Emeryville- Amtrak,0,0,13173.33,1
+737,0,SAC,10:55:00,10:55:00,Sacramento,0,0,,1
+737,1,DAV,11:10:00,11:10:00,Davis,0,0,,1
+737,2,FFV,11:30:00,11:30:00,Fairfield/Vacaville,0,0,,1
+737,3,SUI,11:36:00,11:36:00,Suisun/Fairfield,0,0,,1
+737,4,MTZ,11:55:00,11:55:00,Martinez,0,0,,1
+737,5,RIC,12:21:00,12:21:00,Richmond-BART,0,0,,1
+737,6,BKY,12:29:00,12:29:00,Berkeley,0,0,,1
+737,7,EMY,12:34:00,12:34:00,Emeryville,0,0,,1
+737,8,OKJ,12:45:00,12:45:00,Oakland Jack London,0,0,,1
+737,9,OAC,12:55:00,12:55:00,Oakland Coliseum-BART,0,0,,1
+737,10,HAY,13:05:00,13:05:00,Hayward,0,0,,1
+737,11,FMT,13:21:00,13:21:00,Fremont/Centerville,0,0,,1
+737,12,GAC,13:39:00,13:39:00,Santa Clara/Great America,0,0,,1
+737,13,SCC,13:47:00,13:47:00,Santa Clara/University,0,0,,1
+737,14,SJC,14:01:00,14:01:00,San Jose,0,0,,1
+737S,0,COX,8:45:00,8:45:00,Cofax,0,0,,1
+737S,1,ARN,9:15:00,9:15:00,Auburn,0,0,,1
+737S,2,RLN,9:30:00,9:30:00,Rockin,0,0,,1
+737S,3,RSV,9:45:00,9:45:00,Rosevile,0,0,,1
+737S,4,SAC,10:35:00,10:35:00,Sacramento,0,0,,1
+737W,0,EMY,12:35:00,12:35:00,Emeryville- Amtrak,0,0,0,1
+737W,1,SFC,13:05:00,13:05:00,SF Salesforce Plaza,0,0,14270.63,1
+741,0,SAC,12:55:00,12:55:00,Sacramento,0,0,,1
+741,1,DAV,13:10:00,13:10:00,Davis,0,0,,1
+741,2,FFV,13:30:00,13:30:00,Fairfield/Vacaville,0,0,,1
+741,3,SUI,13:36:00,13:36:00,Suisun/Fairfield,0,0,,1
+741,4,MTZ,13:55:00,13:55:00,Martinez,0,0,,1
+741,5,RIC,14:21:00,14:21:00,Richmond-BART,0,0,,1
+741,6,BKY,14:29:00,14:29:00,Berkeley,0,0,,1
+741,7,EMY,14:34:00,14:34:00,Emeryville,0,0,,1
+741,8,OKJ,14:44:00,14:44:00,Oakland Jack London,0,0,,1
+741,9,OAC,14:53:00,14:53:00,Oakland Coliseum-BART,0,0,,1
+741,10,HAY,15:03:00,15:03:00,Hayward,0,0,,1
+741,11,FMT,15:19:00,15:19:00,Fremont/Centerville,0,0,,1
+741,12,GAC,15:37:00,15:37:00,Santa Clara/Great America,0,0,,1
+741,13,SCC,15:45:00,15:45:00,Santa Clara/University,0,0,,1
+741,14,SJC,15:59:00,15:59:00,San Jose,0,0,,1
+741W,0,EMY,14:35:00,14:35:00,Emeryville- Amtrak,0,0,0,1
+741W,1,SFC,15:05:00,15:05:00,SF Salesforce Plaza,0,0,14270.63,1
+742,0,SJC,17:05:00,17:05:00,San Jose,0,0,,1
+742,1,SCC,17:11:00,17:11:00,Santa Clara/University,0,0,,1
+742,2,GAC,17:18:00,17:18:00,Santa Clara/Great America,0,0,,1
+742,3,FMT,17:34:00,17:34:00,Fremont/Centerville,0,0,,1
+742,4,HAY,17:50:00,17:50:00,Hayward,0,0,,1
+742,5,OAC,18:01:00,18:01:00,Oakland Coliseum-BART,0,0,,1
+742,6,OKJ,18:10:00,18:10:00,Oakland Jack London,0,0,,1
+742,7,EMY,18:19:00,18:19:00,Emeryville,0,0,,1
+742,8,BKY,18:23:00,18:23:00,Berkeley,0,0,,1
+742,9,RIC,18:30:00,18:30:00,Richmond-BART,0,0,,1
+742,10,MTZ,18:57:00,18:57:00,Martinez,0,0,,1
+742,11,SUI,19:16:00,19:16:00,Suisun/Fairfield,0,0,,1
+742,12,FFV,19:23:00,19:23:00,Fairfield/Vacaville,0,0,,1
+742,13,DAV,19:45:00,19:45:00,Davis,0,0,,1
+742,14,SAC,20:09:00,20:09:00,Sacramento,0,0,,1
+742E,0,SFC,17:30:00,17:30:00,SF Salesforce Plaza,0,0,0,1
+742E,1,EMY,18:05:00,18:05:00,Emeryville- Amtrak,0,0,13173.33,1
+743,0,SAC,14:55:00,14:55:00,Sacramento,0,0,,1
+743,1,DAV,15:10:00,15:10:00,Davis,0,0,,1
+743,2,FFV,15:30:00,15:30:00,Fairfield/Vacaville,0,0,,1
+743,3,SUI,15:36:00,15:36:00,Suisun/Fairfield,0,0,,1
+743,4,MTZ,15:55:00,15:55:00,Martinez,0,0,,1
+743,5,RIC,16:21:00,16:21:00,Richmond-BART,0,0,,1
+743,6,BKY,16:29:00,16:29:00,Berkeley,0,0,,1
+743,7,EMY,16:34:00,16:34:00,Emeryville,0,0,,1
+743,8,OKJ,16:45:00,16:45:00,Oakland Jack London,0,0,,1
+743,9,OAC,16:54:00,16:54:00,Oakland Coliseum-BART,0,0,,1
+743,10,HAY,17:04:00,17:04:00,Hayward,0,0,,1
+743,11,FMT,17:20:00,17:20:00,Fremont/Centerville,0,0,,1
+743,12,GAC,17:38:00,17:38:00,Santa Clara/Great America,0,0,,1
+743,13,SCC,17:46:00,17:46:00,Santa Clara/University,0,0,,1
+743,14,SJC,18:03:00,18:03:00,San Jose,0,0,,1
+743W,0,EMY,16:35:00,16:35:00,Emeryville- Amtrak,0,0,0,1
+743W,1,SFC,17:05:00,17:05:00,SF Salesforce Plaza,0,0,14270.63,1
+744,0,SJC,18:05:00,18:05:00,San Jose,0,0,,1
+744,1,SCC,18:11:00,18:11:00,Santa Clara/University,0,0,,1
+744,2,GAC,18:18:00,18:18:00,Santa Clara/Great America,0,0,,1
+744,3,FMT,18:34:00,18:34:00,Fremont/Centerville,0,0,,1
+744,4,HAY,18:49:00,18:49:00,Hayward,0,0,,1
+744,5,OAC,19:00:00,19:00:00,Oakland Coliseum-BART,0,0,,1
+744,6,OKJ,19:12:00,19:12:00,Oakland Jack London,0,0,,1
+744,7,EMY,19:21:00,19:21:00,Emeryville,0,0,,1
+744,8,BKY,19:25:00,19:25:00,Berkeley,0,0,,1
+744,9,RIC,19:32:00,19:32:00,Richmond-BART,0,0,,1
+744,10,MTZ,19:59:00,19:59:00,Martinez,0,0,,1
+744,11,SUI,20:18:00,20:18:00,Suisun/Fairfield,0,0,,1
+744,12,FFV,20:25:00,20:25:00,Fairfield/Vacaville,0,0,,1
+744,13,DAV,20:48:00,20:48:00,Davis,0,0,,1
+744,14,SAC,21:15:00,21:15:00,Sacramento,0,0,,1
+744E,0,SFC,18:40:00,18:40:00,SF Salesforce Plaza,0,0,0,1
+744E,1,EMY,19:10:00,19:10:00,Emeryville- Amtrak,0,0,13173.33,1
+745,0,SAC,16:55:00,16:55:00,Sacramento,0,0,,1
+745,1,DAV,17:10:00,17:10:00,Davis,0,0,,1
+745,2,FFV,17:30:00,17:30:00,Fairfield/Vacaville,0,0,,1
+745,3,SUI,17:36:00,17:36:00,Suisun/Fairfield,0,0,,1
+745,4,MTZ,17:55:00,17:55:00,Martinez,0,0,,1
+745,5,RIC,18:21:00,18:21:00,Richmond-BART,0,0,,1
+745,6,BKY,18:29:00,18:29:00,Berkeley,0,0,,1
+745,7,EMY,18:35:00,18:35:00,Emeryville,0,0,,1
+745,8,OKJ,18:52:00,18:52:00,Oakland Jack London,0,0,,1
+745W,0,EMY,18:35:00,18:35:00,Emeryville- Amtrak,0,0,0,1
+745W,1,SFC,19:05:00,19:05:00,SF Salesforce Plaza,0,0,14270.63,1
+746,0,OKJ,20:12:00,20:12:00,Oakland Jack London,0,0,,1
+746,1,EMY,20:21:00,20:21:00,Emeryville,0,0,,1
+746,2,BKY,20:25:00,20:25:00,Berkeley,0,0,,1
+746,3,RIC,20:32:00,20:32:00,Richmond-BART,0,0,,1
+746,4,MTZ,20:58:00,20:58:00,Martinez,0,0,,1
+746,5,SUI,21:17:00,21:17:00,Suisun/Fairfield,0,0,,1
+746,6,FFV,21:23:00,21:23:00,Fairfield/Vacaville,0,0,,1
+746,7,DAV,21:44:00,21:44:00,Davis,0,0,,1
+746,8,SAC,22:10:00,22:10:00,Sacramento,0,0,,1
+746E,0,SFC,19:40:00,19:40:00,SF Salesforce Plaza,0,0,0,1
+746E,1,EMY,20:10:00,20:10:00,Emeryville- Amtrak,0,0,13173.33,1
+747,0,SAC,18:55:00,18:55:00,Sacramento,0,0,,1
+747,1,DAV,19:10:00,19:10:00,Davis,0,0,,1
+747,2,FFV,19:30:00,19:30:00,Fairfield/Vacaville,0,0,,1
+747,3,SUI,19:36:00,19:36:00,Suisun/Fairfield,0,0,,1
+747,4,MTZ,19:55:00,19:55:00,Martinez,0,0,,1
+747,5,RIC,20:21:00,20:21:00,Richmond-BART,0,0,,1
+747,6,BKY,20:29:00,20:29:00,Berkeley,0,0,,1
+747,7,EMY,20:34:00,20:34:00,Emeryville,0,0,,1
+747,8,OKJ,20:43:00,20:43:00,Oakland Jack London,0,0,,1
+747,9,OAC,20:53:00,20:53:00,Oakland Coliseum-BART,0,0,,1
+747,10,HAY,21:06:00,21:06:00,Hayward,0,0,,1
+747,11,FMT,21:21:00,21:21:00,Fremont/Centerville,0,0,,1
+747,12,GAC,21:39:00,21:39:00,Santa Clara/Great America,0,0,,1
+747,13,SCC,21:47:00,21:47:00,Santa Clara/University,0,0,,1
+747,14,SJC,22:01:00,22:01:00,San Jose,0,0,,1
+747W,0,EMY,20:35:00,20:35:00,Emeryville- Amtrak,0,0,0,1
+747W,1,SFC,21:05:00,21:05:00,SF Salesforce Plaza,0,0,14270.63,1
+748,0,SJC,20:05:00,20:05:00,San Jose,0,0,,1
+748,1,SCC,20:11:00,20:11:00,Santa Clara/University,0,0,,1
+748,2,GAC,20:18:00,20:18:00,Santa Clara/Great America,0,0,,1
+748,3,FMT,20:34:00,20:34:00,Fremont/Centerville,0,0,,1
+748,4,HAY,20:49:00,20:49:00,Hayward,0,0,,1
+748,5,OAC,21:00:00,21:00:00,Oakland Coliseum-BART,0,0,,1
+748,6,OKJ,21:12:00,21:12:00,Oakland Jack London,0,0,,1
+748,7,EMY,21:21:00,21:21:00,Emeryville,0,0,,1
+748,8,BKY,21:25:00,21:25:00,Berkeley,0,0,,1
+748,9,RIC,21:32:00,21:32:00,Richmond-BART,0,0,,1
+748,10,MTZ,21:59:00,21:59:00,Martinez,0,0,,1
+748,11,SUI,22:19:00,22:19:00,Suisun/Fairfield,0,0,,1
+748,12,FFV,22:25:00,22:25:00,Fairfield/Vacaville,0,0,,1
+748,13,DAV,22:48:00,22:48:00,Davis,0,0,,1
+748,14,SAC,23:15:00,23:15:00,Sacramento,0,0,,1
+748E,0,SFC,20:40:00,20:40:00,SF Salesforce Plaza,0,0,0,1
+748E,1,EMY,21:10:00,21:10:00,Emeryville- Amtrak,0,0,13173.33,1
+751,0,SAC,20:55:00,20:55:00,Sacramento,0,0,,1
+751,1,DAV,21:10:00,21:10:00,Davis,0,0,,1
+751,2,FFV,21:30:00,21:30:00,Fairfield/Vacaville,0,0,,1
+751,3,SUI,21:36:00,21:36:00,Suisun/Fairfield,0,0,,1
+751,4,MTZ,21:55:00,21:55:00,Martinez,0,0,,1
+751,5,RIC,22:20:00,22:20:00,Richmond-BART,0,0,,1
+751,6,BKY,22:28:00,22:28:00,Berkeley,0,0,,1
+751,7,EMY,22:34:00,22:34:00,Emeryville,0,0,,1
+751,8,OKJ,22:51:00,22:51:00,Oakland Jack London,0,0,,1
+751W,0,EMY,22:35:00,22:35:00,Emeryville- Amtrak,0,0,0,1
+751W,1,SFC,23:05:00,23:05:00,SF Salesforce Plaza,0,0,14270.63,1
